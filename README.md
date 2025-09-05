@@ -1,0 +1,1 @@
+O programa que eu criei mostra meu nome, idade, ano de nascimento. E faz o calculo do ano atual menos a idade resultando o ano de nascimento 
